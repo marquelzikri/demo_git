@@ -1,0 +1,3 @@
+Nama : Dzikri Ardafi
+Id_Peserta: GG3FSGP0310
+Link_Repo: https://github.com/Dzikri-Ardafi/GIGIH_Git-Module
